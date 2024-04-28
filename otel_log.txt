@@ -1,0 +1,127 @@
+1.04.2024 17:09:50 - Kullanıcı giriş yaptı: Ahmet Yılmaz, Yetki: Müdür
+1.04.2024 17:21:00 - Kullanıcı giriş yaptı: Ahmet Yılmaz, Yetki: Müdür
+1.04.2024 17:21:31 - Kullanıcı giriş yaptı: Mehmet Kaya, Yetki: Temizlik Görevlisi
+1.04.2024 17:23:52 - Kullanıcı giriş yaptı: Ahmet Yılmaz, Yetki: Müdür
+1.04.2024 17:24:46 - Yeni müşteri kaydedildi: Furkan Bozer
+1.04.2024 17:24:54 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 1003, Müşteri ID: 1005
+1.04.2024 17:56:48 - Kullanıcı giriş yaptı: Ahmet Yılmaz, Yetki: Müdür
+1.04.2024 17:57:10 - Yeni müşteri kaydedildi: Hatice  Çavuş
+1.04.2024 17:57:13 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 1004, Müşteri ID: 1006
+2.04.2024 02:18:12 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 02:48:17 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 02:48:34 - Hata oluştu: An error occurred while saving the entity changes. See the inner exception for details.
+2.04.2024 02:48:41 - Hata oluştu: An error occurred while saving the entity changes. See the inner exception for details.
+2.04.2024 02:49:49 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 02:50:03 - Hata oluştu: An error occurred while saving the entity changes. See the inner exception for details.
+2.04.2024 02:54:05 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 02:54:18 - Hata oluştu: An error occurred while saving the entity changes. See the inner exception for details.
+2.04.2024 02:55:20 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 02:55:31 - Hata oluştu: Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'RezDurum', table 'HOTEL.dbo.Musteri'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Read()
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+ClientConnectionId:d2444ead-41e4-4d00-9cc7-26384c298996
+Error Number:515,State:2,Class:16
+2.04.2024 02:57:55 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 02:58:19 - Hata oluştu: Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'TcKimlikNo', table 'HOTEL.dbo.Musteri'; column does not allow nulls. INSERT fails.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDataReader.Read()
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSet(Int32 startCommandIndex, RelationalDataReader reader)
+ClientConnectionId:50ab056c-936d-4978-b368-6f8962b015bc
+Error Number:515,State:2,Class:16
+2.04.2024 03:02:24 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 03:02:53 - Yeni müşteri kaydedildi: Ahmet Erol Bayrak
+2.04.2024 03:02:57 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 1, Müşteri ID: 5
+2.04.2024 05:01:09 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:01:35 - Yeni müşteri kaydedildi: Ahmet Erol Bayrak
+2.04.2024 05:01:39 - Rezervasyon kaydetme hatası: 
+2.04.2024 05:04:38 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:04:54 - Yeni müşteri kaydedildi: dmkldmdkvlmdk MCSLŞMLŞMVDLŞM
+2.04.2024 05:04:58 - Rezervasyon kaydetme hatası: 
+2.04.2024 05:08:46 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:09:04 - Yeni müşteri kaydedildi: fsddvvsdvdsvsd vdsvdsvdsvds
+2.04.2024 05:12:55 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:13:29 - Yeni müşteri kaydedildi: Ahmet Erol  Bayrak
+2.04.2024 05:13:38 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 2, Müşteri ID: 9
+2.04.2024 05:14:24 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:14:43 - Yeni müşteri kaydedildi: AHmet hudwhuw
+2.04.2024 05:14:45 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 3, Müşteri ID: 10
+2.04.2024 05:18:57 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:21:25 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:23:29 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:27:57 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:28:16 - Yeni müşteri kaydedildi: femkdnmkm nfcknmdcndlk
+2.04.2024 05:32:55 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:33:12 - Yeni müşteri kaydedildi: rgbfdbfdbfdbfd bdfbfdbfdbfd
+2.04.2024 05:33:15 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 4, Müşteri ID: 12
+2.04.2024 05:34:44 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:35:12 - Yeni müşteri kaydedildi: fvfbdfdfbfdb bdfdfbfbdfdbbfddfb
+2.04.2024 05:39:50 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:40:19 - Yeni müşteri kaydedildi: Ahmet Erol  Bayrak
+2.04.2024 05:40:22 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 6, Müşteri ID: 14
+2.04.2024 05:40:30 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 7, Müşteri ID: 14
+2.04.2024 05:43:20 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:43:40 - Yeni müşteri kaydedildi: Ahmet Mehmet bAYRAK
+2.04.2024 05:43:42 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 8, Müşteri ID: 15
+2.04.2024 05:47:07 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:47:27 - Yeni müşteri kaydedildi: dfefeefe effeeffeef
+2.04.2024 05:47:30 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 9, Müşteri ID: 16
+2.04.2024 05:49:11 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:49:37 - Yeni müşteri kaydedildi: Ahmet Erol Bayrak
+2.04.2024 05:49:41 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 10, Müşteri ID: 17
+2.04.2024 05:52:11 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:52:31 - Yeni müşteri kaydedildi: hdefuhduh jıfejıodvjvıdoj
+2.04.2024 05:52:35 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 11, Müşteri ID: 18
+2.04.2024 05:54:20 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 05:54:37 - Yeni müşteri kaydedildi: dfdvudsjısdjı jıdnjdcndndcj
+2.04.2024 05:54:38 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 12, Müşteri ID: 19
+2.04.2024 05:54:46 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 13, Müşteri ID: 19
+2.04.2024 06:14:04 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 06:15:07 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 06:27:38 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 06:29:37 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 06:31:51 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 06:33:16 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 06:34:46 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+2.04.2024 06:44:28 - Kullanıcı giriş yaptı: admin admin, Yetki: Müdür
+12.04.2024 15:10:49 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+12.04.2024 19:45:59 - Yeni müşteri kaydedildi: Ahmet Erol  Bayrak
+12.04.2024 19:46:39 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+12.04.2024 19:47:53 - Yeni müşteri kaydedildi: Ahmet Erol  Bayrak 
+12.04.2024 19:47:56 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 1, Müşteri ID: 2
+12.04.2024 19:54:00 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+12.04.2024 19:55:05 - Yeni müşteri kaydedildi: Osman  BaYRAK
+12.04.2024 19:55:09 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 2, Müşteri ID: 3
+12.04.2024 19:59:15 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+12.04.2024 20:02:49 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+12.04.2024 20:04:40 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+12.04.2024 20:05:16 - Yeni müşteri kaydedildi: ahmet erol bayrak
+12.04.2024 20:05:19 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 3, Müşteri ID: 4
+15.04.2024 16:06:08 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+15.04.2024 16:07:05 - Yeni müşteri kaydedildi: Furkan Bozer
+15.04.2024 16:07:28 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 4, Müşteri ID: 5
+15.04.2024 16:15:58 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+15.04.2024 16:16:27 - Yeni müşteri kaydedildi: vjflfbnjk ndvkoınmfvkl
+15.04.2024 16:16:49 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 5, Müşteri ID: 6
+15.04.2024 17:58:41 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+15.04.2024 18:00:02 - Yeni müşteri kaydedildi: ıjıj jıjıljıojıo
+15.04.2024 18:00:07 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 6, Müşteri ID: 7
+15.04.2024 18:00:43 - Yeni müşteri kaydedildi: nsxjhnsxjsx nsxnkjnsxknsx
+15.04.2024 18:00:49 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 7, Müşteri ID: 8
+15.04.2024 18:01:02 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 8, Müşteri ID: 8
+15.04.2024 18:01:28 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 9, Müşteri ID: 8
+15.04.2024 18:01:43 - Yeni rezervasyon oluşturuldu: Rezervasyon ID: 10, Müşteri ID: 8
+15.04.2024 18:08:00 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
+15.04.2024 19:22:42 - Kullanıcı giriş yaptı: Ahmet Erol Bayrak, Yetki: Müdür
